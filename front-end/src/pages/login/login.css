@@ -1,0 +1,49 @@
+.containerLogin {
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background-color: #353535;
+}
+
+.containerFormLogin{
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.imageBackgroudContainer {
+  background-color: aliceblue;
+  width: 500px;
+  height: 550px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+
+.rightContainer {
+  width: 80%;
+
+}
+
+
+#passwordLogin {
+    margin-top: 15px;
+}
+
+#buttonLogin {
+  background-color: #454545;
+  margin-top: 50px;
+  border-color: #454545
+}
+
+
+#buttonLogout {
+  background-color: #ff8555;
+  margin-top: 50px;
+  border-color: #af5741;
+  margin: 30px;
+}
